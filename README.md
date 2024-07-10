@@ -34,4 +34,4 @@ orders = [
     ("Bob", "Camera", 2),
     # More orders...
 ]
-- Write a function to iterate over the list of orders. - Unpack each tuple in the list and format the details for display.
+- Write a function to iterate over the list of orders. - Unpack each tuple in the list and format the details for display. 
